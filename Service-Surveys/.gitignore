@@ -1,0 +1,18 @@
+# python files
+__pycache__
+*.pyc
+
+# db stuff
+*.sqlite3
+
+# media
+media/
+*.png
+*.jpeg
+
+# other
+.vscode/
+app-logs/
+*.log
+todo.md
+*.pid
